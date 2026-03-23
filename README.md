@@ -429,7 +429,7 @@ echo "[+] Done! Results in $OUTPUT/"
 
 ---
 
-## 🛠️ Ferramentas — Instalação Rápida
+## Ferramentas — Instalação Rápida
 
 ```bash
 # Go tools
@@ -471,7 +471,7 @@ sudo apt install nmap masscan amass -y
 
 ---
 
-## 👤 Autor
+## Autor
 
 **nyx11** — [russo-sec](https://github.com/russo-sec)  
 🔗 [pentestly.io](https://pentestly.io)  
