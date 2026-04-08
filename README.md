@@ -1,7 +1,7 @@
 # Recon Methodology
 
 > Metodologia completa de reconhecimento para Bug Bounty e Pentests Web.  
-> **by nyx11 — russo-sec**
+> **russo-sec**
 
 ---
 
